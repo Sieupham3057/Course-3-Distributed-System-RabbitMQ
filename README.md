@@ -3,10 +3,11 @@
      Bài học đều hơn 1 tiếng, có bài học 2 tiếng, 2 tiếng rưỡi ... Đi sâu vào bản chất cốt lõi vấn đề 💕💕💕
      👉 Thời lượng mỗi bài học như sau: ⌚⌚⌚👍
           Bài 1: ⌚(01:17)
-```diff
-! 👉👉 <h3>Discount cho 10 Người Đăng Ký Đầu Tiên đăng ký khóa học Distributed System với RabbitMQ</h3> 👍👍
-```          
+
 # Distributed System-RabbitMQ : Học Phí: ~~"4.000.000"~~ "3.200.000"
+```diff
+! 👉👉 <h3>Discount cho 10 Người Đầu Tiên đăng ký khóa học Distributed System với RabbitMQ</h3> 👍👍
+```          
   ## Bank Informations:  
                         * Name: TRAN VAN DONG 
                         * Bank: MB Bank
