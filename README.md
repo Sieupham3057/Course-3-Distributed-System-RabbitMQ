@@ -19,9 +19,9 @@
 ## <b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=hm365SMZNm4&t=5s) ⭐
 - ### Bài 1: Tổng Quan Về Authen và Author Với Cookie. ⌚(01:17) ✔
 - ### Bài 2: Tổng Quan Về Authen cookie và JWT, Xử lý GitMerge-GitRebase, Cách Xử lý khi có Hot Fix trên production hay staging... ⌚(36:48) ✔
-- ### Bài 3: Tạo Structure Code Chuẩn và Triển Khai Outbox Pattern - Triển khai Versioning với Minimal API - Phần 1. ⌚(01:16) ✔
+- ### Bài 3: Tạo Structure Code Chuẩn và Triển Khai Outbox Pattern - Triển khai Versioning với Minimal API - Phần 1. ⌚(01:16) ✔ (https://www.youtube.com/watch?v=N8PgDGlQC4g&t=252s)
 - ### Bài 4: Tạo Structure Code Chuẩn và Triển Khai Outbox Pattern - Triển khai Versioning với Minimal API - Phần 2. ⌚(01:27) ✔
-- ### Bài 5: Authentication với JWT và Triển Khai Token Management với REDIS - Phần 1. ⌚(01:30) ✔
+- ### Bài 5: Authentication với JWT và Triển Khai Token Management với REDIS - Phần 1. ⌚(01:30) ✔ (https://www.youtube.com/watch?v=Tnpvf4I7P00)
 - ### Bài 6: Authentication với JWT và Triển Khai Token Management với REDIS - Phần 2. ⌚(00:53) ✔
 - ...
 
