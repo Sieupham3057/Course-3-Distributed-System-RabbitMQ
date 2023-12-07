@@ -3,7 +3,7 @@
      Bài học đều hơn 1 tiếng, có bài học 2 tiếng, 2 tiếng rưỡi ... Đi sâu vào bản chất cốt lõi vấn đề 💕💕💕
      👉 Thời lượng mỗi bài học như sau: ⌚⌚⌚👍
           Bài 1: ⌚(01:17)     Bài 2: ⌚(36:48)     Bài 3: ⌚(01:16)     Bài 4: ⌚(01:27)
-          Bài 5: ⌚(01:30)     Bài 6: ⌚(00:53)
+          Bài 5: ⌚(01:30)     Bài 6: ⌚(00:53)     Bài 7: ⌚(01:36)     Bài 8: ⌚(01:45)
 
 # Distributed System-RabbitMQ : Học Phí: ~~"4.000.000"~~ "3.200.000"
 ```diff
@@ -23,6 +23,8 @@
 - ### Bài 4: Tạo Structure Code Chuẩn và Triển Khai Outbox Pattern - Triển khai Versioning với Minimal API - Phần 2. ⌚(01:27) ✔
 - ### Bài 5: Authentication với JWT và Triển Khai Token Management với REDIS - Phần 1. ⌚(01:30) ✔ (https://www.youtube.com/watch?v=Tnpvf4I7P00)
 - ### Bài 6: Authentication với JWT và Triển Khai Token Management với REDIS - Phần 2. ⌚(00:53) ✔
+- ### Bài 7: Triển Khai Oubox-Pattern với BackgroudJob và Push Message Lên RabbitMQ and Triển Khai Consumer Routing Messsage To Handler (Quartz-Masstransit-RabbitMq-MediatR). ⌚(01:36) ✔
+- ### Bài 8: Generic Repository với MongoDB và Triển Khai Idempotence Pattern. ⌚(01:45) ✔
 - ...
 
 ## Students participated in the course:
