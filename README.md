@@ -26,7 +26,7 @@
 - ### Bài 6: Authentication với JWT và Triển Khai Token Management với REDIS - Phần 2. ⌚(00:53) ✔
 - ### Bài 7: Triển Khai Oubox-Pattern với BackgroudJob và Push Message Lên RabbitMQ and Triển Khai Consumer Routing Messsage To Handler (Quartz-Masstransit-RabbitMq-MediatR). ⌚(01:36) ✔
 - ### Bài 8: Generic Repository với MongoDB và Triển Khai Idempotence Pattern. ⌚(01:45) ✔
-- ### Bài 9: Demo Sử Dụng Yarp Reverse Proxy để build ApiGateWays và LoadBalancing. ⌚(01:09) ✔
+- ### Bài 9: Demo Sử Dụng Yarp Reverse Proxy để build ApiGateWays và LoadBalancing. ⌚(01:09) ✔ (https://www.youtube.com/watch?v=woWW0O7MxOI&t=3364s)
 - ### Bài 10: Chia Tách QueryAPI và CommandAPI. ⌚(01:43) ✔
 - ### Bài 11: Triển Khai Yarp Reverse Proxy 
 - ...
