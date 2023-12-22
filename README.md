@@ -4,7 +4,7 @@
      👉 Thời lượng mỗi bài học như sau: ⌚⌚⌚👍
           Bài 1: ⌚(01:17)     Bài 2: ⌚(36:48)     Bài 3: ⌚(01:16)     Bài 4: ⌚(01:27)
           Bài 5: ⌚(01:30)     Bài 6: ⌚(00:53)     Bài 7: ⌚(01:36)     Bài 8: ⌚(01:45)
-          Bài 9: ⌚(01:09)     Bài 10: ⌚(01:43)
+          Bài 9: ⌚(01:09)     Bài 10: ⌚(01:43)    Bài 11: ⌚(00:53)    Bài 12: ⌚(00:42)
 
 # Distributed System-RabbitMQ : Học Phí: ~~"4.000.000"~~ "3.200.000"
 ```diff
@@ -28,7 +28,8 @@
 - ### Bài 8: Generic Repository với MongoDB và Triển Khai Idempotence Pattern. ⌚(01:45) ✔
 - ### Bài 9: Demo Sử Dụng Yarp Reverse Proxy để build ApiGateWays và LoadBalancing. ⌚(01:09) ✔ (https://www.youtube.com/watch?v=woWW0O7MxOI&t=3364s)
 - ### Bài 10: Chia Tách QueryAPI và CommandAPI. ⌚(01:43) ✔
-- ### Bài 11: Triển Khai Yarp Reverse Proxy 
+- ### Bài 11: Hướng Dẫn Deploy AspNet lên Ubuntu với Nginx. ⌚(00:53) ✔
+- ### Bài 12: Build ApiGateway và configure Authorization. ⌚(00:42) ✔
 - ...
 
 ## Students participated in the course:
