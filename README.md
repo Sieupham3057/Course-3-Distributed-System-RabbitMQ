@@ -30,6 +30,8 @@
 - ### Bài 10: Chia Tách QueryAPI và CommandAPI. ⌚(01:43) ✔
 - ### Bài 11: Hướng Dẫn Deploy AspNet lên Ubuntu với Nginx. ⌚(00:53) ✔
 - ### Bài 12: Build ApiGateway và configure Authorization. ⌚(00:42) ✔
+- ### Bài 13: Tư Duy Phân Quyền Nhị Phân và Tìm Hiểu Sâu Hơn Với Nginx (LoadBalancing vs Nginx). ⌚(00:55) ✔
+- ### Bài 14: Frontend Build StructureCode và Routing với Angular (LoadBalancing vs Nginx). ⌚(00:51) ✔
 - ...
 
 ## Students participated in the course:
