@@ -5,7 +5,7 @@
           Bài 1: ⌚(01:17)     Bài 2: ⌚(36:48)     Bài 3: ⌚(01:16)     Bài 4: ⌚(01:27)
           Bài 5: ⌚(01:30)     Bài 6: ⌚(00:53)     Bài 7: ⌚(01:36)     Bài 8: ⌚(01:45)
           Bài 9: ⌚(01:09)     Bài 10: ⌚(01:43)    Bài 11: ⌚(00:53)    Bài 12: ⌚(00:42)
-          Bài 13: ⌚(00:55)    Bài 14: ⌚(00:51)
+          Bài 13: ⌚(00:55)    Bài 14: ⌚(00:51)    Bài 15: ⌚(01:12)
 
 # Distributed System-RabbitMQ : Học Phí: "4.200.000"
 ```diff
@@ -32,7 +32,8 @@
 - ### Bài 11: Hướng Dẫn Deploy AspNet lên Ubuntu với Nginx. ⌚(00:53) ✔
 - ### Bài 12: Build ApiGateway và configure Authorization. ⌚(00:42) ✔
 - ### Bài 13: Tư Duy Phân Quyền Nhị Phân và Tìm Hiểu Sâu Hơn Với Nginx (LoadBalancing vs Nginx). ⌚(00:55) ✔
-- ### Bài 14: Frontend Build StructureCode và Routing với Angular (LoadBalancing vs Nginx). ⌚(00:51) ✔
+- ### Bài 14: Frontend Build StructureCode và Routing với Angular. ⌚(00:51) ✔
+- ### Bài 15: Ghép Bất Cứ Template Vào Ứng Dụng Angular. ⌚(01:12) ✔
 - ...
 
 ## Students participated in the course:
