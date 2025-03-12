@@ -12,10 +12,9 @@
 ! 👉👉 <h3>Discount cho 10 Người Đầu Tiên đăng ký khóa học Distributed System với RabbitMQ</h3> 👍👍
 ```          
   ## Bank Informations:  
-                        * Name: TRAN VAN DONG 
-                        * Bank: MB Bank
-                        * Account Number: 0972631178
-                        * Message: <YourEmail>-<YourPhone>-<CourseId=DL-303>
+<img src="https://github.com/Sieupham3057/ByMeACoffee/blob/main/BIDV.PNG" alt="..." width="250" />
+
+# Nội Dung Chuyển Khoản: "YourEmail-CourseId-DL-303"
 
 ## Content:
 ## <b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=hm365SMZNm4&t=5s) ⭐
