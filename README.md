@@ -7,7 +7,7 @@
           Bài 9: ⌚(01:09)     Bài 10: ⌚(01:43)    Bài 11: ⌚(00:53)    Bài 12: ⌚(00:42)
           Bài 13: ⌚(00:55)    Bài 14: ⌚(00:51)    Bài 15: ⌚(01:12)
 
-# Distributed System-RabbitMQ : Học Phí: "4.200.000" ~Discount 40% = "2.520.000"~
+# Distributed System-RabbitMQ : Học Phí: ~"4.200.000"~ Discount 50% = "2.100.000"
 ```diff
 ! 👉👉 <h3>Discount cho 10 Người Đầu Tiên đăng ký khóa học Distributed System với RabbitMQ</h3> 👍👍
 ```          
